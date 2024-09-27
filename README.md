@@ -1,12 +1,14 @@
 ## Yoo, I'm Hays Chan 👋
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/hayschan)
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DVocabVictor&style=flat-square)](https://github.com/VocabVictor)
 [![Blog](https://img.shields.io/badge/Blog-haysc.tech-95B8D1?style=flat-square&logo=wordpress&logoColor=white)](https://haysc.tech/)
 
-- 🍻 Junior at 🇨🇳 [PKU](https://www.pku.edu.cn), *BSc in Computer Science*
+- 🎓 Master's student at 🇨🇳 [NJU](https://www.nju.edu.cn), *MSc in Computer Science and Technology*
 - ⚡ Python / C++ / Rust / JavaScript
-- 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
-- ✍️ [Blogger](https://haysc.tech)
+- 🔬 Research interests: 
+  - Efficient training of Large Language Models (LLMs)
+  - Retrieval-Augmented Generation (RAG)
+  - AI Agents
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 
