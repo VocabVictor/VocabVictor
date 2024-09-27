@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/badge/Blog-haysc.tech-95B8D1?style=flat-square&logo=wordpress&logoColor=white)](https://haysc.tech/)
 
 - 🍻 Junior at 🇨🇳 [PKU](https://www.pku.edu.cn), *BSc in Computer Science*
-- ⚡ C++ / Python.
+- ⚡ Python / C++ / Rust / JavaScript
 - 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
 - ✍️ [Blogger](https://haysc.tech)
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
